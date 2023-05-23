@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -24,3 +24,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+<div id="banner" align="center">
+  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized.gif" width="40%" height="50%"/>
+</div>
+
+---
+### :man_technologist: About Me :
+
+I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :selfie: Study at [IT college](https://singularity.academy/)
+- :snake: Main language is Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">
