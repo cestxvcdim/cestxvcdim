@@ -26,7 +26,7 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized.gif" width="20%" height="25%"/>
+  <img src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif" width="32%" height="40%"/>
 </div>
 
 ---
