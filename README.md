@@ -14,4 +14,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=cestxvcdim&style=flat-square&color=blue" alt=""/>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=cestxvcdim&style=flat-square&color=blue" alt=""/>
+</div>
